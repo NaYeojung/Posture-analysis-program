@@ -6,11 +6,16 @@
 ## 설치 모듈
 
 ```sh
-npm install my-crazy-module --save
-npm install
-npm install
-npm install
-npm install
+import cv2
+import os
+import json
+import mediapipe as mp
+import numpy as np
+import pygame
+from tkinter import messagebox
+import pyautogui as pg
+import csv
+import matplotlib.pyplot as plt
 ```
 
 ## 사용 설명
