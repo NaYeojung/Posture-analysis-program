@@ -6,11 +6,16 @@
 ## 설치 모듈
 
 ```sh
-npm install my-crazy-module --save
-npm install
-npm install
-npm install
-npm install
+import cv2
+import os
+import json
+import mediapipe as mp
+import numpy as np
+import pygame
+from tkinter import messagebox
+import pyautogui as pg
+import csv
+import matplotlib.pyplot as plt
 ```
 
 ## 사용 설명
@@ -28,8 +33,8 @@ npm install
 ### 3. 자세 분석 그래프 생성
 <img src="https://github.com/NaYeojung/Posture-analysis-program/assets/107746494/39372ba4-db43-44fe-8f8c-5b3f81bddbe3" width="550px">
 
-## 개발 환경 설정
+## 참고
 
-openCV 설치에 오류가 많아 ipynb를 이용하여 개발했습니다.
+https://gyong0117.tistory.com/149
 
 
