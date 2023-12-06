@@ -33,8 +33,8 @@ import matplotlib.pyplot as plt
 ### 3. 자세 분석 그래프 생성
 <img src="https://github.com/NaYeojung/Posture-analysis-program/assets/107746494/39372ba4-db43-44fe-8f8c-5b3f81bddbe3" width="550px">
 
-## 개발 환경 설정
+## 참고
 
-openCV 설치에 오류가 많아 ipynb를 이용하여 개발했습니다.
+https://gyong0117.tistory.com/149
 
 
