@@ -36,5 +36,6 @@ import matplotlib.pyplot as plt
 ## 참고
 
 https://gyong0117.tistory.com/149
+https://runingcoding.tistory.com/119
 
 
